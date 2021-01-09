@@ -56,7 +56,7 @@ each measure. Each wav file's amplitudes are then extracted and played.
 
 
 
-Root Finding: Bisect.java, Bisect2.java, Newton2.java (Difficulty: 2)
+## Root Finding: Bisect.java, Bisect2.java, Newton2.java (Difficulty: 2)
 For each of these files, simply run the program e.g. java Bisect or java Bisect2
 or java Newton2. Bisect uses the bisect method to find the root of f(x) = 6 - x - x^3
 in the interval [1.0, 2.0] with an epsilon of 0.000001: 1.634366, while printing
@@ -67,8 +67,7 @@ printing out the total number of function calls used.
 
 
 
-## Loops and Conditionals: Ordered.java, RGBtoCMYK.java, Checkerboard.java,
-RandomWalker.java and RandomWalkers.java (Difficulty: 1)
+## Loops and Conditionals: Ordered.java, RGBtoCMYK.java, Checkerboard.java, RandomWalker.java and RandomWalkers.java (Difficulty: 1)
 Run Ordered.java with three integer arguments to check if they are ordered.
 Run RGBtoCMYK.java with three integer arguments between 0 and 255 representing
 the values of red, green, and blue respectively to obtain the values of the other
