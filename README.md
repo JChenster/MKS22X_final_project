@@ -22,8 +22,7 @@ a sequence of values that eventually repeats itself.
 
 
 
-## Natural Language Modeling (First one on the website): Markov.java,
-FrequencyCounter.java, LanguageModeler.java, and TextGenerator.java (Difficulty: 6)
+## Natural Language Modeling (First one on the website): Markov.java, FrequencyCounter.java, LanguageModeler.java, and TextGenerator.java (Difficulty: 6)
 Markov.java creates a Markov object for a k-character substring with a variable
 representing its frequency and a LinkedList representing its suffixes. To run
 FrequencyCounter.java run it with an integer argument k. Like the other
